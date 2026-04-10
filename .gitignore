@@ -1,0 +1,11 @@
+# Large dataset files - loaded from Google Drive at runtime
+*.csv
+*.db
+*.sqlite
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
